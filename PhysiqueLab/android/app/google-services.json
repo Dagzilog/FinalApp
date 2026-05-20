@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251351432431",
+    "project_id": "physiquelab-f4daf",
+    "storage_bucket": "physiquelab-f4daf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251351432431:android:2c406e4bf5651857c66f1a",
+        "android_client_info": {
+          "package_name": "com.physiquelab.physique_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh_bBn65hulG8yNJk3vJ-r_nTmieH1n0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
